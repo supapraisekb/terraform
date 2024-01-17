@@ -52,6 +52,6 @@ This installation is not like the usual installation of .exe and other installat
 
 13. Click Ok to all open windows
 
-13. 
+
  
 
