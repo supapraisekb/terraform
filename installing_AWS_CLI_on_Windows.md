@@ -6,7 +6,7 @@ This a command line intrface provided by AWS and it provides a unified managemen
 
 1. Go to your browser and search for ``download AWS CLI for windows``
 
-![Search for aws cli download for windows](/AWS/terraform/assests/screenshots/ASW_CLI_installation/01-search_for%20_aws_cli_download.JPG)
+![Search for aws cli download for windows](/terraform/assests/screenshots/ASW_CLI_installation/01-search_for%20_aws_cli_download.JPG)
 
 2. click the first link and go to the official site
 
@@ -18,7 +18,7 @@ This a command line intrface provided by AWS and it provides a unified managemen
 https://awscli.amazonaws.com/AWSCLIV2.msi
 ```
 
-![click to download the CLI msi Installer](/AWS/terraform/assests/screenshots/ASW_CLI_installation/02-click_to_download.JPG)
+![click to download the CLI msi Installer](/terraform/assests/screenshots/ASW_CLI_installation/02-click_to_download.JPG)
 
 # OR
 
@@ -41,7 +41,7 @@ https://awscli.amazonaws.com/AWSCLIV2.msi
 
 9. If you get the output in  the attached image then it is correctly installed:
 
-![Verified AWS CLI installation ](/AWS/terraform/assests/screenshots/ASW_CLI_installation/08-verify_the_installation.JPG)
+![Verified AWS CLI installation ](/terraform/assests/screenshots/ASW_CLI_installation/08-verify_the_installation.JPG)
 
 10. Done! 
 
