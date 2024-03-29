@@ -88,5 +88,12 @@ admin-server-1
 
 17. It will askforconfirmation, type **yes** 
 
+18. tho know the ip address of your EC2 instance use this command:
+
+```
+aws ec2 describe-instances --instance-ids $instance_id --query 'Reservations[*].Instances[*].PublicIpAddress' --output text
+
+```
+
 18. Lab Done!!
 
